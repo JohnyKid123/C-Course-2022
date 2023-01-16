@@ -1,1 +1,1 @@
-Programing Course from 2022 made by : Soft Uni and MON.
+Course started at Octomber 2022
