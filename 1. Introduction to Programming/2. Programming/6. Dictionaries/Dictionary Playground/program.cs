@@ -10,7 +10,7 @@ namespace DictionaryPlayground
             Dictionary<string, string> phoneBook = new Dictionary<string, string>();
             phoneBook.Add("Albena", "0886523518");
             phoneBook.Add("Stefan", "0887651238");
-
+     
             /*
             // This will throw an exception:
             phoneBook.Add("Albena", "new phone number");
